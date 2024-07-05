@@ -18,3 +18,11 @@
 .title:hover{
     transform: rotate(360deg) scale(5) translateX(100px);
 }
+.main{
+    background: purple;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
